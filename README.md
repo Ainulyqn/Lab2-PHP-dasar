@@ -1,8 +1,4 @@
-|  Muhammad Bisma  |    312010443    |
-|------------------|-----------------|
-|  TI.21.A.1       | Pemrograman Web |
-
-## Pertemuan 2 Lab2_Web
+## Pertemuan 2 Lab2_PHP_Dasar
 Dalam pertemuan ini kita akan mempelajari PHP Dasar dengan beberapa program code PHP nya.
 
 # PHP Dasar
@@ -20,7 +16,7 @@ Dalam pertemuan ini kita akan mempelajari PHP Dasar dengan beberapa program code
 <br>Buat folder lab2_php_dasar pada root directory web server (c:xampp/htdocs)</br>
 
 ![hasil](img/4.png)
-<br>Kemudian akses directory pada web server dengan mengakses URL : http://localhost/Lab7Web/lab2_php_dasar/</br>
+<br>Kemudian akses directory pada web server dengan mengakses URL : http://localhost/"nama alamat file"</br>
 
 ## 4). PHP Dasar
 ![dasar](img/5.png) 
@@ -60,7 +56,7 @@ Berikut hasil run PHP Dasar<br>
 
 ## 6). Predefine $_GET
 ![predefine](img/7.png)
-<br>Buat file baru dalam directory lab7_php_dasar dengan nama filenya adalah latihan2.php dan untuk mengaksesnya menggunakan URL : http://localhost/Lab2_Web/lab2_php_dasar/lat2.php?nama=%20Bisma</br>
+<br>Buat file baru dalam directory Lab2_PHP_dasar dengan nama filenya adalah lat2.php</br>
 
 ### Contoh Coding
 ```php
@@ -84,7 +80,7 @@ Berikut hasil run PHP Dasar<br>
 
 ## 7). Membuat Form Input
 ![form](img/8.png)
-<br>Buat File baru dengan nama lat3.php dalam directory folder lab2_php_dasar 
+<br>Buat File baru dengan nama lat3.php dalam directory folder Lab2_PHP_dasar 
 Berikut adalah hasil atau tampilan dalam membuat form dalam php dengan variable $_POST</br> 
 
 ### Contoh Coding
